@@ -1,0 +1,154 @@
+{
+    "name": "Mohammad Sakib Mahmood",
+    "location": "Springfield, MO (USA)",
+    "job": "Front-End Developer",
+    "email": "sakibmahmood485@gmail.com",
+    "phone": "+8801892727702",
+    "personalSite": "https://sakibmahmood019.netlify.app/",
+    "github": "github.com/sakibb0199",
+    "education": [
+        {
+            "school": "Missouri State University",
+            "degree": "Masters of Science",
+            "major": "Computer Science",
+            "date": "2022- 2023",
+            "url": "https://www.missouristate.edu/"
+        },
+        {
+            "school": "American Internatiopnal University",
+            "degree": "Bachelor of Science",
+            "major": "Electrical Engineering",
+            "date": "2014 - 2018",
+            "url": "https://www.aiub.edu/"
+        },
+        {
+            "school": "College of Development Alternative (CODA)",
+            "date": "2011 - 2013",
+            "certificate": "Higher Secondary Certificate (HSC)",
+            "url": "https://rajukcollege.net/"
+        },
+        {
+            "school": "Mohammadpur Preparatory School and College",
+            "date": "2005 - 2011",
+            "certificate": "Secondary School Certificate (SSC)",
+            "url": "https://rajukcollege.net/"
+        }
+    ],
+    "skillset": [
+        {
+            "name": "Programming Languages",
+            "skills": "Typescript, Javascript(ES6), Python, HTML, CSS, SASS"
+        },
+        {
+            "name": "Libraries & Frameworks",
+            "skills": "React, Gatsby, Next, Bootstrap, TailwindCSS"
+        },
+        {
+            "name": "Tools & Platforms",
+            "skills": "Git & Github, Markdown, YAML, Firebase"
+        },
+        {
+            "name": "Design",
+            "skills": "Figma"
+        },
+        {
+            "name": "Other",
+            "skills": "Photoshop, Illustrator, Sketch"
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "ASIT Official Website",
+            "demo": "http://web.asit.com.bd",
+            "repo": "https://github.com/rahi-khan/asit-website",
+            "desc": "Official website of ASIT for showcasing their products and services, built with React, Bootstrap"
+        },
+
+        {
+            "name": "Contact Keeper App",
+            "demo": "N/A",
+            "repo": "https://github.com/rahi-khan/Contact-Keeper-App",
+            "desc": "Full stack app [MERN] to store contacts"
+        },
+        {
+            "name": "Github Finder App",
+            "demo": "https://github-finder-69.netlify.app/",
+            "repo": "https://github.com/rahi-khan/Github-Finder-App",
+            "desc": "Web app to display Github Users profile in an exclusive way, built with React and MaterializeCSS"
+        },
+        {
+            "name": "Budget Monitoring App",
+            "demo": "https://stupid-budgetapp.netlify.app/",
+            "repo": "https://github.com/rahi-khan/budget-app",
+            "desc": "Simple app to keep track of income and expenses made with Javascript, HTML and CSS"
+        },
+        {
+            "name": "Global Average Temperature",
+            "demo": "https://global-avg-temp.netlify.app/",
+            "repo": "https://github.com/rahi-khan/Global-Avg-Temp-Chart-App",
+            "desc": "Web app to display the Global Average Temperature using an official public API from NASA, built with React and Bootstrap"
+        },
+        {
+            "name": "Edie Homepage",
+            "demo": "https://edie-homepage69.netlify.app/",
+            "repo": "https://github.com/rahi-khan/edie_homepage-devchallenges.io",
+            "desc": "A simple homepage UI built with Gatsby.js and TailwindCSS"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "Advanced Software & IT Services LTD",
+            "jobTitle": "Freelance Contract",
+            "date": "Dec, 2020",
+
+            "jobDesc": [
+                "Developed the official website",
+                "Worked with a variety of different languages and frameworks such as Javascript, React, Bootstrap and a variety different libraries for development and Figma for mockup"
+            ],
+            "url": "http://web.asit.com.bd",
+            "demo": "http://web.asit.com.bd",
+            "repo": "https://github.com/rahi-khan/asit-website"
+        },
+        {
+            "company": "Advanced Software & IT Services LTD",
+            "jobTitle": "Freelance Contract",
+            "date": "Aug, 2020",
+            "jobDesc": [
+                "Worked on the documentation website",
+                "Used HTML, CSS, Javascript, SASS and Figma for mockup"
+            ],
+            "url": "http://web.asit.com.bd",
+            "demo": "https://docsite.netlify.app",
+            "repo": "https://github.com/rahi-khan/doc_site"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Developer",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-01&ci=AWS0018058010&ct=CERTIFIED%20AWS%20PRODUCT%20MANAGER",
+            "date": "2019-12-01"
+        },
+        {
+            "name": "AWS Certified Solutions Architect",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-01&ci=AWS0018058010&ct=CERTIFIED%20AWS%20PRODUCT%20MANAGER",
+            "date": "2019-12-01"
+        },
+        {
+            "name": "AWS Certified Solutions Architect Associate",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-01&ci=AWS0018058010&ct=CERTIFIED%20AWS%20PRODUCT%20MANAGER",
+            "date": "2019-12-01"
+        },
+        {
+            "name": "AWS Certified Solutions Architect Associate",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-01&ci=AWS0018058010&ct=CERTIFIED%20AWS%20PRODUCT%20MANAGER",
+            "date": "2019-12-01"
+        },
+        {
+            "name": "AWS Certified Solutions Architect Associate",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-01&ci=AWS0018058010&ct=CERTIFIED%20AWS%20PRODUCT%20MANAGER",
+            "date": "2019-12-01"
+        },
+    "interests": ["Calesthenics, Jogging, Gaming, Reading"] 
+    
+}
